@@ -1,0 +1,6 @@
+backend/*.pyc
+backend/__pycache__/*
+/*/*.swp
+/*/*.db
+backend/*.db
+backend/*.swp
